@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routervync",
+        "uuid": 1810995,
+        "checksum": "um29jk"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
